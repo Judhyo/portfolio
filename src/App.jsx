@@ -1,14 +1,14 @@
 import { useState } from "react";
 import { useScrollReveal } from "./hooks/useScrollReveal";
-import Nav from "./components/Nav";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Experience from "./components/Experience";
-import Education from "./components/Education";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Nav from "./Components/Nav";
+import Hero from "./Components/Hero";
+import About from "./Components/About";
+import Skills from "./Components/Skills";
+import Experience from "./Components/Experience";
+import Education from "./Components/Education";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 import "./styles/globals.css";
 
 export default function App() {
