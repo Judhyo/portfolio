@@ -9,7 +9,7 @@ import Education from "./Components/Education";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
-import "./styles/globals.css";
+import "./Styles/globals.css";
 
 export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);
